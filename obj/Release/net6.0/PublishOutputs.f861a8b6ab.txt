@@ -1,0 +1,7 @@
+c:\sandeep\out\HelloWorldApp.web.exe
+c:\sandeep\out\appsettings.Development.json
+c:\sandeep\out\appsettings.json
+c:\sandeep\out\HelloWorldApp.web.dll
+c:\sandeep\out\HelloWorldApp.web.deps.json
+c:\sandeep\out\HelloWorldApp.web.runtimeconfig.json
+c:\sandeep\out\HelloWorldApp.web.pdb
